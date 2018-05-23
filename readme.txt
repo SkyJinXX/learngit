@@ -5,3 +5,4 @@ Git tracks changes of files.
 Push.
 branch.
 for example;
+Creating a new branch is quick & simple.
